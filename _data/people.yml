@@ -16,7 +16,7 @@ halilyigit:
     webpage: "https://avesis.kocaeli.edu.tr/halilyigit"
     email: "halilyigit@kocaeli.edu.tr"
     role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/halilyigit.png
     bio: Doc.Dr.
 
 suleymaneken:
@@ -24,14 +24,14 @@ suleymaneken:
     webpage: "https://suleymaneken.github.io/"
     email: "suleyman.eken@kocaeli.edu.tr "
     role: faculty
-    image: /img/people/scott.png
+    image: /img/people/suleymaneken.png
     bio: Dr.
 
 hikmethakan:
     display_name: "Hikmet Hakan Gurel"
     webpage: "www.hakangurel.com.tr"
     email: "hakan@hakangurel.com.tr "
-    
+    image: /img/people/hikmethakan.png
     role: Doc.Dr.
 
 mehmetyildirim:
@@ -39,7 +39,7 @@ mehmetyildirim:
     webpage: "https://avesis.kocaeli.edu.tr/myildirim"
     email: "myildirim@kocaeli.edu.tr"
     role: Prof.Dr.
-    image: /img/people/storm.png
+    image: /img/people/mehmetyildirim.png
 
 grad-a:
     display_name: "Grad A"
