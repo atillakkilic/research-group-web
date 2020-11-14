@@ -1,41 +1,44 @@
 
 prof-a:
-    display_name: "Prof A"
+    display_name: "M.Zeki Konyar"
     role: faculty
 
 prof-b:
-    display_name: "Prof B"
+    display_name: "Bahadır Salmankurt"
     role: faculty
 
 prof-c:
-    display_name: "Prof C"
+    display_name: "Sumeyya Ilkin"
     role: faculty
 
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+halilyigit:
+    display_name: "Halil Yigit"
+    webpage: "https://avesis.kocaeli.edu.tr/halilyigit"
+    email: "halilyigit@kocaeli.edu.tr"
     role: faculty
     image: /img/people/prof-x.png
-    bio: Professor
+    bio: Doc.Dr.
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
+suleymaneken:
+    display_name: "Suleyman Eken"
+    webpage: "https://suleymaneken.github.io/"
+    email: "suleyman.eken@kocaeli.edu.tr "
+    role: faculty
     image: /img/people/scott.png
-    bio: aka Cyclops
+    bio: Dr.
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+hikmethakan:
+    display_name: "Hikmet Hakan Gurel"
+    webpage: "www.hakangurel.com.tr"
+    email: "hakan@hakangurel.com.tr "
+    
+    role: Doc.Dr.
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
+mehmetyildirim:
+    display_name: "Mehmet Yildirim"
+    webpage: "https://avesis.kocaeli.edu.tr/myildirim"
+    email: "myildirim@kocaeli.edu.tr"
+    role: Prof.Dr.
     image: /img/people/storm.png
 
 grad-a:
