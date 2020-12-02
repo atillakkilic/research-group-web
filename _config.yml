@@ -1,4 +1,4 @@
-name: Awesome Research Group
+name: Kocaeli Teknoloji Fakültesi Labaratuvarı
 url: http://awesome.example.edu
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -41,9 +41,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: Home
+  - title: AnaSayfa
     link: /
-  - title: People
+  - title: Öğretim Üyeleri
     link: /#people
   - title: Research
     link: /research.html
