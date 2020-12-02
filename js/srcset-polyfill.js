@@ -1,5 +1,5 @@
 (function(window, document) {
-    // Test if it already supports srcset
+    // Test if it already supports 
     if ('srcset' in document.createElement('img'))
         return true;
 
