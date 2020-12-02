@@ -4,6 +4,5 @@ title: "A Full Blog Post"
 icon: star-o
 ---
 
-Unlike a short news post, a blog post has its own page and lots of text. Text text text.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+HAKKIMIZDA
+Kocaeli Üniversitesi Teknoloji Fakültesi 13.11.2009 tarih ve 27405 sayılı Resmi Gazetede yayımlanan Bakanlar Kurulu kararı ile kurulmuştur. Fakültemiz sahip olduğu öğretim ve araştırma imkânları ile öğrencilerini eğitim aldıkları mühendislik disiplinlerinde uygulama kabiliyeti yüksek, üretimde etkin mühendisler olarak yetiştirmeyi hedeflemektedir. Fakülte bünyesinde Bilişim Sistemleri Mühendisliği, Biyomedikal Mühendisliği, Enerji Sistemleri Mühendisliği, Otomotiv Mühendisliği Bölümleri yer almaktadır. Bununla birlikte, Fen Bilimleri Enstitüsü’ne bağlı olarak bu bölümler tarafından lisansüstü programlar ayrıca yürütülmektedir.
